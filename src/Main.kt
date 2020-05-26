@@ -16,4 +16,6 @@ fun main(args: Array<String>) {
     user.firstName = "Ugo"
     user.secondName = "Юго"
 
+    println(user.firstName)
+
 }
